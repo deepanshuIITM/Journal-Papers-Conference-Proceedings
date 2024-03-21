@@ -20,7 +20,7 @@
          Decision-making. [Under Preparation]
       
       7. Yadav, D., Ramu, P., & Deb, K. Performance Evaluation of Preference-Based Evolutionary Multi-Objective 
-          Optimization Algorithms.  [Under Preparation]
+          Optimization Algorithms.  [Accepted]
 
 ## Conference Proceedings
 
@@ -35,7 +35,7 @@
          Algorithms. In The Genetic and Evolutionary Computation Conference (GECCO 2023). Association for Computing Machinery (ACM).
 
       4. Yadav, D., Ramu, P., & Deb, K. An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization 
-         Algorithms. In The Genetic and Evolutionary Computation Conference, ACM.  [Under Review]
+         Algorithms. In The Genetic and Evolutionary Computation Conference, ACM.  [Accepted]
 
 
 ## International Conference/Symposium Presentation
