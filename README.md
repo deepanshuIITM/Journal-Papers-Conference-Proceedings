@@ -13,14 +13,12 @@
       4. Lee, I., Lee, U., Ramu, P., Yadav, D., Bayrak, G., & Acar, E. (2022). Small Failure Probability: Principles, 
          Progress and Perspectives. Structural and Multidisciplinary Optimization, 65(11), 326.
 
-      5. Yadav, D., Sekar, K., & Ramu, P., Visualization-enabled Adaptive Sampling for Estimation of Small Probability 
-         of Failure. [Under Review]
+      5. Yadav, D., Sekar, K., & Ramu, P. (2024). Adaptive sampling based estimation of small probability of failure 
+         using interpretable Self-Organising Map. Structural Safety, 102470.
       
       6. Yadav, D., Ramu, P., & Deb, K. Unified Framework for Evolutionary Multi-objective Robust Optimization and 
          Decision-making. [Under Preparation]
       
-      7. Yadav, D., Ramu, P., & Deb, K. Performance Evaluation of Preference-Based Evolutionary Multi-Objective 
-          Optimization Algorithms.  [Accepted]
 
 ## Conference Proceedings
 
@@ -48,21 +46,23 @@
 
 ## National Conference/Symposium Presentations
 
-      1. Yadav D., Raj M. & Ramu P., (2023), “Visualization-aided Design Space Exploration of MDO Problems”, In The 6th National 
-        Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati.
+      1. Yadav D., Raj M. & Ramu P., (2023), “Visualization-aided Design Space Exploration of MDO Problems”, In The 
+         6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 
+         2023, IIT Guwahati.
         
-      2. Rishwanth M., Kishore V.V., Srinivasan, A.N., Mani V., Yadav D. & Ramu P. (2023), “iSOM-derived Explainable Outcomes for 
-         Engineering Applications”, In The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
-         December 6-8, 2023, IIT Guwahati.
+      2. Rishwanth M., Kishore V.V., Srinivasan, A.N., Mani V., Yadav D. & Ramu P. (2023), “iSOM-derived Explainable 
+         Outcomes for Engineering Applications”, In The 6th National Conference on Multidisciplinary Design, Analysis 
+         and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati.
          
-      3. Yadav D., Ramu P. & Deb K. (2023), “Incorporating Qualitative Preferences in Evolutionary Multi-Criteria Decision-Making”, 
-         In The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati.
+      3. Yadav D., Ramu P. & Deb K. (2023), “Incorporating Qualitative Preferences in Evolutionary Multi-Criteria 
+         Decision-Making”, In The 6th National Conference on Multidisciplinary Design, Analysis and Optimization 
+         (NCMDAO 2023) December 6-8, 2023, IIT Guwahati.
          
-      4. Yadav D. & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Extremes Prediction”, In The 2nd International Symposium on Data 
-         Analytics Risk & Technology, RBCDSAI, IIT Madras.
+      4. Yadav D. & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Extremes Prediction”, In The 2nd International 
+         Symposium on Data Analytics Risk & Technology, RBCDSAI, IIT Madras.
          
-      5. Yadav D. & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Tail Modeling ”, In The 4th National Conference on Multidisciplinary 
-         Design, Analysis, and Optimization, IIT Madras.
+      5. Yadav D. & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Tail Modeling ”, In The 4th National Conference 
+         on Multidisciplinary Design, Analysis, and Optimization, IIT Madras.
 
       
       
