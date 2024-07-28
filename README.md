@@ -16,8 +16,8 @@
       5. Yadav, D., Sekar, K., & Ramu, P. (2024). Adaptive sampling based estimation of small probability of failure 
          using interpretable Self-Organising Map. Structural Safety, 102470.
       
-      6. Yadav, D., Ramu, P., & Deb, K. Unified Framework for Evolutionary Multi-objective Robust Optimization and 
-         Decision-making. [Under Preparation]
+      6. Yadav, D., Ramu, P., & Deb, K. (2024). Handling Objective Preference and Variable Uncertainty in Evolutionary 
+         Multi-Objective Optimization. [Under Review]
       
 
 ## Conference Proceedings
@@ -33,7 +33,7 @@
          Algorithms. In The Genetic and Evolutionary Computation Conference (GECCO 2023). Association for Computing Machinery (ACM).
 
       4. Yadav, D., Ramu, P., & Deb, K. An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization 
-         Algorithms. In The Genetic and Evolutionary Computation Conference, ACM.  [Accepted]
+         Algorithms. In The Genetic and Evolutionary Computation Conference, ACM.  
 
 
 ## International Conference/Symposium Presentation
